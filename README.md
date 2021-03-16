@@ -1,5 +1,9 @@
 # page-newsletter
 
+<p>DEMO:</p>
+
+<img src="src/assets/images/chrome-capture.jpeg">
+
 ## Project setup
 ```
 yarn install
